@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Patrick&#39;s Homepage</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Patrick&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Patrick O. S. Kuti &amp;copy; 2014-2019. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 02 Dec 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about.ja/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/home/about.ja/</guid>
+      <description>About Me こんにちは、私はパトリック・オラジド「篠宮」です。Kuti .: Jp :: uk :: nigeria： エンジニア、創始者、リラクゼーション・ゲーマー＆メー</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>About Me Hi, I&amp;rsquo;m Patrick Olajide &amp;ldquo;Shinomiya&amp;rdquo; Kuti. 🇬🇧 🇯🇵 🇳🇬
+I enjoy learning new things, crafting solutions for complex problems, and creating tech to solve social issues.
+Currently speak Japanese and English and am learning Igbo, German and Korean.
+Experienced in developing, deploying, scaling, administering and securing large-scale web applications and teams whilst possessing a broad knowledge of various system architectures and design.
+Currently working magic at ExaWizards and omnirai.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/home/experience/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/home/posts/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profiles</title>
+      <link>/home/profiles/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/home/profiles/</guid>
+      <description>Code &amp;amp; Infrastructure
+ Docker Hub Fedora Copr Fedora Pagure Fedora Package Sources Forkwell Github Keybase Launchpad  Professional &amp;amp; Networking
+ LinkedIn Wantedly  Social
+ HackerNews Twitter  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

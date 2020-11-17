@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on Patrick&#39;s Homepage</title>
+    <link>/tags/code/</link>
+    <description>Recent content in code on Patrick&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Patrick O. S. Kuti &amp;copy; 2014-2019. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 02 Dec 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>fInspect</title>
+      <link>/project/finspect/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/project/finspect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

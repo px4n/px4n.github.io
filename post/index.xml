@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Posts on Patrick&#39;s Homepage</title>
+    <link>/post/</link>
+    <description>Recent content in Blog Posts on Patrick&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Patrick O. S. Kuti &amp;copy; 2014-2019. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 02 Dec 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Site, New Start</title>
+      <link>/post/new-site-new-start/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/post/new-site-new-start/</guid>
+      <description>Good morning, or maybe I should say Goodnight. 🌙
+It&amp;rsquo;s approximately 7am. Yes, I&amp;rsquo;ve spent the whole night messing around with the Hugo, Docker, Ansible and a few other pieces of tech as I enjoy my one week break after leaving my previous employer.
+Honestly, I feel like a little schoolboy again who is too excited to sleep the night before a school trip.
+I ❤️ tech.
+So this week, more so, this sleepless night I&amp;rsquo;ve successfully migrated domains and in the process have had to enjoy the pain of updating my contact and login e-mail addresses everywhere (surely there must be an app for this!</description>
+    </item>
+    
+  </channel>
+</rss>

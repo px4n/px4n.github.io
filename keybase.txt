@@ -1,0 +1,55 @@
+https://keybase.io/px4n
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://px4n.net
+  * I am px4n (https://keybase.io/px4n) on keybase.
+  * I have a public key ASAnr7zOvuciR9-8QcmQ5pcVAqHjvDXyg-8mjdLi-YzCuAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012027afbccebee72247dfbc41c990e6971502a1e3bc35f283ef268dd2e2f98cc2b80a",
+      "host": "keybase.io",
+      "kid": "012027afbccebee72247dfbc41c990e6971502a1e3bc35f283ef268dd2e2f98cc2b80a",
+      "uid": "767061f848f63b7ce54acc5faaf22719",
+      "username": "px4n"
+    },
+    "merkle_root": {
+      "ctime": 1543856658,
+      "hash": "e412d0f89223a5f91d4c4da894e37ba9c0707f2877c0294a6903ed0b5d67aa607d5b70a202611b58f8253b6077cb8e6f160d17fed5a4c6d5525a6abb81999215",
+      "hash_meta": "63aa6e63874727778ddf7a3f4ee49afe65b7e272e0a321461037a93538747fcb",
+      "seqno": 4044949
+    },
+    "service": {
+      "entropy": "yR+zS50/LHbpzgOT6gdUkL8Y",
+      "hostname": "px4n.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.11.0"
+  },
+  "ctime": 1543856677,
+  "expire_in": 504576000,
+  "prev": "46b4f4f1eeabb0b15fc556b55f1f330b828284a8f9a0698b232ded53b5b81179",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJ6+8zr7nIkffvEHJkOaXFQKh47w18oPvJo3S4vmMwrgKp3BheWxvYWTESpcCCMQgRrT08e6rsLFfxVa1Xx8zC4KChKj5oGmLIy3tU7W4EXnEIP3tukHmx5U3JQANqgxcOaVMzgpcbHoukH+Qqbvgsl1OAgHCo3NpZ8RA/o5hiNp1/lXUkqQbrOh1aesEvDa2hVcmrF1rQM0VLDJp8uJc7cJvG1KdgENKIoJi4TvBI+4X85w3oUdR62EPBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOCh7umi92giONwIaSJKgThDA/Pq6DYLCx2VFTwdLSgYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/px4n
+
+
