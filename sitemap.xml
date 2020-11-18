@@ -1,122 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
+  <sitemap>
+    <loc>/en/sitemap.xml</loc>
     
-    <url>
-    
-      <loc>/post/new-site-new-start/</loc>
       <lastmod>2018-12-06T06:00:00+09:00</lastmod>
-    </url>
     
+  </sitemap>
   
+  <sitemap>
+    <loc>/ja/sitemap.xml</loc>
     
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2018-12-02T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/glug/</loc>
-      <lastmod>2018-12-02T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/manabukai/</loc>
-      <lastmod>2018-12-02T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/finspect/</loc>
-      <lastmod>2018-12-02T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2018-12-02T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2018-12-02T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/code/</loc>
-      <lastmod>2018-12-02T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/english/</loc>
       <lastmod>2018-12-06T06:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
     
+  </sitemap>
   
-    
-    <url>
-    
-      <loc>/tags/orgmeetups/</loc>
-      <lastmod>2018-12-02T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/personal/</loc>
-      <lastmod>2018-12-06T06:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-</urlset>
+</sitemapindex>

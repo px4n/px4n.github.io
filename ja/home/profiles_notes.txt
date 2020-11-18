@@ -1,0 +1,54 @@
+<!-- 
+* [Stackoverflow](asdad)
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/px4n/"
+
+  [[params.social]]
+    icon = "github-square"
+    icon_pack = "fab"
+    link = "https://github.com/px4n"
+
+  [[params.social]]
+    icon = "twitter-square"
+    icon_pack = "fab"
+    link = "https://twitter.com/_px4n"
+
+  [[params.social]]
+    icon = "hacker-news-square"
+    icon_pack = "fab"
+    link = "https://news.ycombinator.com/user?id=px4n"
+
+https://mobile.twitter.com/_px4n
+* https://en.gravatar.com/px4n
+* 
+
+* ask.fedoraproject.org
+
+* meetup.com/members/129249422/
+* scholar.google.com/citations?user=29ybiAUAAAAJ&hl=en 
+* 
+* 
+* https://mastodon.juggler.jp/@px4n
+* 
+* 
+* supermarket.chef.io/users/ku6pk
+* https://stackexchange.com/
+securtiy.stackexchange.com
+* https://crypto.stackexchange.com/questions/6486/is-truecrypts-multiple-cascading-encryption-safe
+* stackoverflow
+* https://goodreads.com/user/show/px4n
+* https://telegram
+* https://signal.me
+
+https://www.producthunt.com/@_px4n
+
+https://angel.co/settings/password
+
+https://px4n.itch.io
+
+https://www.goodreads.com/user/show/43365554-patrick-o-s-kuti
+
+
+https://keybase.pub/px4n/public.pgp -->

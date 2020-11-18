@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code | Patrick&#39;s Homepage</title>
+    <link>/ja/tag/code/</link>
+      <atom:link href="/ja/tag/code/index.xml" rel="self" type="application/rss+xml" />
+    <description>code</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>Patrick O. S. Kuti © 2014-2020. All Rights Reserved.</copyright><lastBuildDate>Sun, 02 Dec 2018 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/media/siteicon.png</url>
+      <title>code</title>
+      <link>/ja/tag/code/</link>
+    </image>
+    
+    <item>
+      <title>fInspect</title>
+      <link>/ja/project/project/finspect/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0900</pubDate>
+      <guid>/ja/project/project/finspect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

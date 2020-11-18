@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Patrick&#39;s Homepage</title>
+    <title>Publication_types | Patrick&#39;s Homepage</title>
     <link>/publication_types/</link>
-    <description>Recent content in Publication_types on Patrick&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Patrick O. S. Kuti &amp;copy; 2014-2019. All Rights Reserved.</copyright>
-    
-	<atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>Patrick O. S. Kuti © 2014-2020. All Rights Reserved.</copyright>
+    <image>
+      <url>/media/siteicon.png</url>
+      <title>Publication_types</title>
+      <link>/publication_types/</link>
+    </image>
     
   </channel>
 </rss>

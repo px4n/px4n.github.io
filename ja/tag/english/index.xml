@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>english | Patrick&#39;s Homepage</title>
+    <link>/ja/tag/english/</link>
+      <atom:link href="/ja/tag/english/index.xml" rel="self" type="application/rss+xml" />
+    <description>english</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>Patrick O. S. Kuti © 2014-2020. All Rights Reserved.</copyright><lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/media/siteicon.png</url>
+      <title>english</title>
+      <link>/ja/tag/english/</link>
+    </image>
+    
+    <item>
+      <title>New Site, New Start</title>
+      <link>/ja/post/new-site-new-start/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0900</pubDate>
+      <guid>/ja/post/new-site-new-start/</guid>
+      <description>&lt;p&gt;Good morning, or maybe I should say Goodnight. 🌙&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s approximately 7am.
+&lt;img src=&#34;gallery/7am_outside.png&#34; alt=&#34;7am Outside&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Yes, I&amp;rsquo;ve spent the whole night messing around with the Hugo, Docker, Ansible and a few other pieces of tech as I enjoy my one week break after leaving my previous employer.&lt;/p&gt;
+&lt;p&gt;Honestly, I feel like a little schoolboy again who is too excited to sleep the night before a school trip.&lt;/p&gt;
+&lt;p&gt;I ❤️ tech.&lt;/p&gt;
+&lt;p&gt;So this week, more so, this sleepless night I&amp;rsquo;ve successfully migrated domains and in the process have had to enjoy the pain of updating my contact and login e-mail addresses everywhere (surely there must be an app for this!). However, the pain of having to do this has been a good auditing exercise for me and is something I recommend everyone to be doing on a regular basis.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve found accounts that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;haven&amp;rsquo;t been logged into for years 🙉&lt;/li&gt;
+&lt;li&gt;were using completely wrong e-mail addresses 🙈&lt;/li&gt;
+&lt;li&gt;had their 2FA configured incorrectly 🙊&lt;/li&gt;
+&lt;li&gt;their login data was so old I had no way of accessing the account 💀&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As you can imagine sorting out all of that and cleaning up my online digital footprint alone has taken up a good portion of this week but it has felt great.&lt;br&gt;
+I&amp;rsquo;ve also been writing scripts for tiny things here and there and tweaking things to get them just right whilst linking API&amp;rsquo;s together.&lt;/p&gt;
+&lt;p&gt;Now that I&amp;rsquo;m running my own password manager, read-it-later and RSS feeder services and have a fresh new site, the next thing on my list is brain dump of everything into my inbox in my GTD system.&lt;/p&gt;
+&lt;p&gt;However, this is looking equally painful, as you can see&amp;hellip;
+&lt;img src=&#34;gallery/ttd_inbox_notes.png&#34; alt=&#34;GTD Inbox List&#34;&gt;
+And above is just the tip of the iceberg&amp;hellip;😱&lt;/p&gt;
+&lt;p&gt;In other news, I&amp;rsquo;ll be starting at &lt;a href=&#34;https://exawizards.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ExaWizards Inc&lt;/a&gt; next week, which I&amp;rsquo;m super &lt;em&gt;SUPER&lt;/em&gt; excited about, and I have more than enough personal and start-up projects to get on with now as well.⚡&lt;/p&gt;
+&lt;p&gt;Things are going to get busy around here 👊, and just before they do, I will take a quick break to continue watching &lt;a href=&#34;http://heromask.jp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hero Mask&lt;/a&gt; (it&amp;rsquo;s actually quite decent and the British setting and background scenes are really nostalgic to watch).
+&lt;img src=&#34;gallery/hero_mask.png&#34; alt=&#34;Hero Mask&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
