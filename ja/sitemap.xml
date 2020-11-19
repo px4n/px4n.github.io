@@ -138,36 +138,6 @@
   </url>
   
   <url>
-    <loc>/ja/tag/code/</loc>
-    <lastmod>2018-12-02T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tag/code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/tag/code/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ja/project/project/finspect/</loc>
-    <lastmod>2018-12-02T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/project/finspect/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/project/project/finspect/"
-                />
-  </url>
-  
-  <url>
     <loc>/ja/project/project/glug/</loc>
     <lastmod>2018-12-02T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -179,21 +149,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="/ja/project/project/glug/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ja/project/project/manabukai/</loc>
-    <lastmod>2018-12-02T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/project/manabukai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/project/project/manabukai/"
                 />
   </url>
   
